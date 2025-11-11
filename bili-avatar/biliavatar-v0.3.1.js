@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         bilibili avatar
 // @namespace    http://tampermonkey.net/
-// @version      0.3
+// @version      0.3.1
 // @description  make bilibili space avatar clickable and easy to oprate
 // @author       SHYUF
 // @match        https://space.bilibili.com/*
