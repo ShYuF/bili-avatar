@@ -428,9 +428,9 @@
 </html>
 `;
 
-                    const _blob = new Blob([_page_html], { type: "text/html;charset=utf-8" });
-                    const _blob_url = URL.createObjectURL(_blob);
-                    const _new_window = window.open(_blob_url, "_blank");
+                const _blob = new Blob([_page_html], { type: "text/html;charset=utf-8" });
+                const _blob_url = URL.createObjectURL(_blob);
+                const _new_window = window.open(_blob_url, "_blank");
             }
 
             // 添加点击事件
