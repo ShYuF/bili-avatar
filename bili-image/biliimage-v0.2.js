@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         bilibili image
 // @namespace    http://tampermonkey.net/
-// @version      0.1.2
+// @version      0.2
 // @description  remove bilibili image format suffix to get original image
 // @author       SHYUF
 // @include      /^https?:\/\/i\d\.hdslb\.com\/.*\.(?:jpg|png|jpeg|gif|bmp|webp|jpe)@.+\.(?:webp|avif)$/
